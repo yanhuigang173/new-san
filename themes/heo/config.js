@@ -13,14 +13,14 @@ const CONFIG = {
   HERO_TITLE_1: '锻炼自身才干.',
   HERO_TITLE_2: '促进三农发展.',
   HERO_TITLE_3: '社团宗旨',
-  HERO_TITLE_4: '新版上线',
+  HERO_TITLE_4: '点击此处填写申请表',
   HERO_TITLE_5: '加入三农',
   HERO_TITLE_LINK: 'https://www.sannong.site',
 
   // 英雄区显示三个置顶分类
-  HERO_CATEGORY_1: { title: '最新时事', url: '/tags/最新' },
-  HERO_CATEGORY_2: { title: '日常分享', url: '/tags/分享' },
-  HERO_CATEGORY_3: { title: '图览精华', url: '/tags/图集' },
+  HERO_CATEGORY_1: { title: '最新时事', url: '/tag/最新' },
+  HERO_CATEGORY_2: { title: '日常分享', url: '/tag/分享' },
+  HERO_CATEGORY_3: { title: '图览精华', url: '/tag/图集' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HERO_RECOMMEND_POST_TAG: '推荐',
@@ -28,11 +28,11 @@ const CONFIG = {
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   INFOCARD_GREETINGS: [
-    '你好！我是',
-    '🔍 分享与热心帮助',
+    '你好！这里是',
+    '🔍 探索与发现三农',
     '🤝 专修交互与设计',
     '🏃 脚踏实地行动派',
-    '🏠 智能家居小能手',
+    '🏠 三农发展研究会',
     '🤖️ 数码科技爱好者',
     '🧱 团队小组发动机'
   ],
