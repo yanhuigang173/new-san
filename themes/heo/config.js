@@ -30,11 +30,9 @@ const CONFIG = {
   INFOCARD_GREETINGS: [
     '你好！这里是',
     '🔍 探索与发现三农',
-    '🤝 专修交互与设计',
     '🏃 脚踏实地行动派',
     '🏠 三农发展研究会',
-    '🤖️ 数码科技爱好者',
-    '🧱 团队小组发动机'
+    '🧱 锻炼与发展自身'
   ],
   INFO_CARD_URL: 'https://github.com/tangly1024/NotionNext', // 个人资料底部按钮链接
 
@@ -99,10 +97,10 @@ const CONFIG = {
   ],
 
   SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
-  SOCIAL_CARD_TITLE_1: '交流频道',
-  SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
-  SOCIAL_CARD_TITLE_3: '点击加入社群',
-  SOCIAL_CARD_URL: 'https://docs.tangly1024.com/article/how-to-question',
+  SOCIAL_CARD_TITLE_1: '交流三农',
+  SOCIAL_CARD_TITLE_2: '加入我们的社团讨论分享',
+  SOCIAL_CARD_TITLE_3: '点击加入社团',
+  SOCIAL_CARD_URL: 'https://www.sannong.site',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
