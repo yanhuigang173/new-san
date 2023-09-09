@@ -34,7 +34,7 @@ const CONFIG = {
     '🏠 三农发展研究会',
     '🧱 锻炼与发展自身'
   ],
-  INFO_CARD_URL: 'https://github.com/tangly1024/NotionNext', // 个人资料底部按钮链接
+  INFO_CARD_URL: 'https://www.sannong.site', // 个人资料底部按钮链接
 
   // 用户技能图标
   GROUP_ICONS: [
