@@ -5,8 +5,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   NOTICE_BAR: [
-    { title: '欢迎来到三农发展研究会', url: 'https://blog.tangly1024.com' },
-    { title: '点击获取更多信息', url: 'https://docs.tangly1024.com' }
+    { title: '欢迎来到三农发展研究会', url: 'https://www.sannong.site' },
+    { title: '点击获取更多信息', url: 'https://www.sannong.site' }
   ],
 
   // 英雄区(首页顶部大卡)
@@ -18,9 +18,9 @@ const CONFIG = {
   HERO_TITLE_LINK: 'https://www.sannong.site',
 
   // 英雄区显示三个置顶分类
-  HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
+  HERO_CATEGORY_1: { title: '最新时事', url: '/tag/必看精选' },
   HERO_CATEGORY_2: { title: '热门文章', url: '/tag/热门文章' },
-  HERO_CATEGORY_3: { title: '实用教程', url: '/tag/实用教程' },
+  HERO_CATEGORY_3: { title: '图览精华', url: '/tag/实用教程' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HERO_RECOMMEND_POST_TAG: '推荐',
